@@ -2,7 +2,7 @@
 ## You can view markdown live preview in it.
 
 
-## Running the app
+## To Run
 
 npm install 
 
