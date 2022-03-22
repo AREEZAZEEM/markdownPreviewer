@@ -25,4 +25,4 @@ http://localhost:8080
 
 #Preview
 
-![2mark](https://user-images.githubusercontent.com/94732877/159414828-f39648f4-be32-4131-b251-020b97ad7ecf.png)
+
