@@ -1,8 +1,14 @@
 # It is markdown Live Preview .
 ## You can view markdown live preview in it.
 
+## Cloning repo by using terminal
 
-## To Run
+# git clone https://github.com/AREEZAZEEM/markdownPreviewer
+
+# unzip files and  go to folder markdownPreviewer
+
+
+## Then  Run
 
 npm install 
 
